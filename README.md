@@ -29,7 +29,7 @@ Realizar una aplicación en Flutter para Dispositivos Móviles, parte de la Unid
 <br>
 
 <h3> Práctica 21 </h3>
-|
+
 | Captura | Descripción | 
 |:-------------:|:---------------|
 | ![MAIN](https://github.com/user-attachments/assets/a6a6e2d4-1e74-4e11-a6b5-c357f58dade8) width="300" height="100" style="margin-bottom: 5px;"> | El archivo `main.dart` es el punto de entrada de una aplicación. <br> En este archivo, se inicializa la aplicación utilizando el widget `MyApp`, el cual configura la gestión del estado mediante `Provider`, aplica un tema personalizado definido en `AppTheme` y establece la pantalla principal (`ChatScreen`).Esta estructura permite gestionar el estado de manera centralizada y asegura que la interfaz de usuario esté basada en el diseño de Material Design, proporcionando una experiencia consistente y eficiente para el usuario. |
@@ -55,4 +55,5 @@ Realizar una aplicación en Flutter para Dispositivos Móviles, parte de la Unid
 
 ## Resultados
 
-![resultado](https://github.com/user-attachments/assets/9abf27e0-978b-47a6-8827-3ea22d9befe9)
+![RESULTADOS](https://github.com/user-attachments/assets/c31038cd-5717-4645-9f31-49f91f47ad8d)
+
