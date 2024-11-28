@@ -1,4 +1,4 @@
-# DMI-10B-YesNoApp-200187
+# DMI-10B-YesNoApp-210505
 Aplicacion realizada en Flutter para dispositivos Moviles, parte de la Unidad2 de la asignatura de Desarrollo Movil Integral, para comprender el uso de Stateless y Statefull Widgets
 
 ![LOGO_UTXJ](https://github.com/user-attachments/assets/f767e574-4c9c-4265-aa5d-e6067b06aa20)
